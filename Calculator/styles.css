@@ -1,0 +1,30 @@
+#calculator{
+    border: 2px solid rgb(95, 93, 93);
+    border-radius: 10px;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.313);
+}
+
+#display{
+    margin: 10px;
+    width: 85%;
+    font-size: 35px;
+    background-color: palegoldenrod
+}
+
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+
+.cal-button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    background-color: palegoldenrod;
+}
