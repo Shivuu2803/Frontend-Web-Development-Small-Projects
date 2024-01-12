@@ -18,7 +18,7 @@ This is a simple Drum Kit project that allows users to play drum sounds by click
 ## Usage
 1. Clone the repository:
    ```bash
-  git clone https://github.com//drum-kit.git](https://github.com/Shivuu2803/Frontend-Web-Development-Small-Projects.git)
+   git clone https://github.com/Shivuu2803/Frontend-Web-Development-Small-Projects.git
    
 2. Open index.html in your web browser to launch the Drum Kit.
 
