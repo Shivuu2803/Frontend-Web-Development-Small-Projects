@@ -34,7 +34,7 @@ This is a simple Drum Kit project that allows users to play drum sounds by click
 Google Fonts - Arvo font is used for the project.
 
 <h1>Contributing</h1>
-Contributions are welcome! Feel free to open issues or submit pull requests.
+Contributions are welcome! Feel free to open issues or submit pull requests.<br>
 1. Fork the repository.<br>
 2. Create a new branch: git checkout -b feature/new-feature.<br>
 3. Make your changes and commit them: git commit -m 'Add new feature'.<br>
